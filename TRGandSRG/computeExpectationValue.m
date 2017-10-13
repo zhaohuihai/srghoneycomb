@@ -1,0 +1,2 @@
+function computeExpectationValue(parameter, wave)
+

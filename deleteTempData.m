@@ -1,0 +1,3 @@
+function deleteTempData
+
+delete('*.mat')
